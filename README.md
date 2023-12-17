@@ -2,36 +2,12 @@
 
 A paper list of RGBD semantic segmentation.
 
-*Last updated: 2023/10/07
-
-#### Update log
-
-*2020/May* - update all of recent papers and make some diagram about history of RGBD semantic segmentation.  
-*2020/July* - update some recent papers (CVPR2020) of RGBD semantic segmentation.  
-*2020/August* - update some recent papers (ECCV2020) of RGBD semantic segmentation.  
-*2020/October* - update some recent papers (CVPR2020, WACV2020) of RGBD semantic segmentation.  
-*2020/November* - update some recent papers (ECCV2020, arXiv), the links of papers and codes for RGBD semantic segmentation.    
-*2020/December* - update some recent papers (PAMI, PRL, arXiv, ACCV) of RGBD semantic segmentation.   
-*2021/February* - update some recent papers (TMM, NeurIPS, arXiv) of RGBD semantic segmentation.  
-*2021/April* - update some recent papers (CVPR2021, ICRA2021, IEEE SPL, arXiv) of RGBD semantic segmentation.  
-*2021/July* - update some recent papers (CVPR2021, ICME2021, arXiv) of RGBD semantic segmentation.  
-*2021/August* - update some recent papers (IJCV, ICCV2021, IEEE SPL, arXiv) of RGBD semantic segmentation.  
-*2022/January* - update some recent papers (TITS, PR, IEEE SPL, arXiv) of RGBD semantic segmentation.  
-*2022/March* - update benchmark results on Cityscapes and ScanNet datasets.  
-*2022/April* - update some recent papers (CVPR, BMVC, IEEE TMM, arXiv) of RGBD semantic segmentation.   
-*2022/May* - update some recent papers of RGBD semantic segmentation.   
-*2022/July* - update some recent papers of RGBD semantic segmentation.   
-*2023/January* - update some recent papers of RGBD semantic segmentation.  
-*2023/October* - update some recent papers of RGBD semantic segmentation.  
-
-##
-
 ## Table of Contents
 
-- [Datasets](https://github.com/Yangzhangcst/RGBD-semantic-segmentation/blob/master/README.md#Datasets)
-- [Metrics](https://github.com/Yangzhangcst/RGBD-semantic-segmentation/blob/master/README.md#Metrics)
-- [Performance tables](https://github.com/Yangzhangcst/RGBD-semantic-segmentation/blob/master/README.md#Performance-tables)
-- [Paper list](https://github.com/Yangzhangcst/RGBD-semantic-segmentation/blob/master/README.md#paper-list)
+- [Datasets](https://github.com/rashidhaffadi/RGBD-semantic-segmentation/blob/master/README.md#Datasets)
+- [Metrics](https://github.com/rashidhaffadi/RGBD-semantic-segmentation/blob/master/README.md#Metrics)
+- [Performance tables](https://github.com/rashidhaffadi/RGBD-semantic-segmentation/blob/master/README.md#Performance-tables)
+- [Paper list](https://github.com/rashidhaffadi/RGBD-semantic-segmentation/blob/master/README.md#paper-list)
 
 ##
 
@@ -436,30 +412,4 @@ International Conference on Cognitive Systems and Signal Processing. [[Paper]](h
 - **[MMSI]** Guttikonda S., et al. (2023). Single Frame Semantic Segmentation Using Multi-Modal Spherical Images. IEEE/CVF Winter Conference on Applications of Computer Vision [[Paper]](https://arxiv.org/pdf/2308.09369.pdf) [[Code]](https://github.com/sguttikon/SFSS-MMSI) 
 - **[SGACNet]** Zhang Y., et al. (2023). Spatial-information Guided Adaptive Context-aware Network for Efficient RGB-D Semantic Segmentation. IEEE Sensors Journal. [[Paper]](https://browse.arxiv.org/pdf/2308.06024.pdf) [[Code]](https://github.com/MVME-HBUT/SGACNet) 
 - **[DFormer]** Yin B., et al. (2023). Rethinking RGBD Representation Learning for Semantic Segmentation. arXiv:2309.09668 [[Paper]](https://arxiv.org/pdf/2309.09668.pdf) [[Code]](https://github.com/VCIP-RGBD/DFormer) 
-- **[AsymFormer]** Du S., et al. (2023). Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation. arXiv:2309.14065 [[Paper]](https://arxiv.org/pdf/2309.14065.pdf) [[Code]](https://github.com/Fourier7754/AsymFormer) 
-
-## Citing
-If you find this repository useful in your research, please consider citing:
-```
-@ARTICLE{SGAC2023,  
-  author={Y. {Zhang} and C. {Xiong} and  J. {Liu} and X. {Ye} and G. {Sun}},  
-  booktitle={IEEE Sensors Journal},   
-  title={Spatial-information Guided Adaptive Context-aware Network for Efficient RGBD Semantic Segmentation},   
-  year={2023}，  
-  pages={1-10}
-  }
-
-@ARTICLE{ADSD2022,  
-  author={Y. {Zhang} and Y. {Yang} and  C. {Chen} and G. {Sun} and Y. {Guo}},  
-  booktitle={Computational Visual Media Conference},   
-  title={Attention-based Dual Supervised Decoder for RGBD Semantic Segmentation},   
-  year={2022}，  
-  pages={1-12}
-  }
-```
-
-## Contact & Feedback
-
-If you have any suggestions about this project, feel free to contact me.
-
-- [e-mail: yzhangcst[at]gmail.com]
+- **[AsymFormer]** Du S., et al. (2023). Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation. arXiv:2309.14065 [[Paper]](https://arxiv.org/pdf/2309.14065.pdf) [[Code]](https://github.com/Fourier7754/AsymFormer)
